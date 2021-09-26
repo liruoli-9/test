@@ -9,4 +9,3 @@ main()
     else
     printf("I am the parent process,my process ID is %d\n",getpid());
 }
-//Hello
